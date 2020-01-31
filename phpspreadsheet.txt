@@ -1,0 +1,3 @@
+Po instalacji Composer w terminalu wpisać ścieżkę do folderu C:\xampp\htdocs\phpspreadsheet, czyli cd C:\xampp\htdocs\phpspreadsheet
+Następnie polecenie composer require phpoffice/phpspreadsheet
+Uruchomić plik kamil.php
